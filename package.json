@@ -1,15 +1,16 @@
 {
-  "name": "nodejs",
+  "name": "framework",
   "version": "1.0.0",
-  "description": "",
+  "description": "Your only bot for your server, this bot will handle everything on your server with ease.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pltrxd",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.0.6"
+    "@akarui/aoi.db": "^2.3.2",
+    "aoi.js": "^6.8.0"
   }
 }
