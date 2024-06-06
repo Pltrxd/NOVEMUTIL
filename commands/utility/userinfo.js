@@ -32,7 +32,7 @@ module.exports = {
     :false}
     
     {thumbnail:$userAvatar[$get[option]]}
-    {color:$getVar[color]}}]
+    {color:$getVar[color]}{timestamp}}]
     
 $let[option;$replaceText[$replaceText[$checkCondition[$slashOption[user]==];true;$authorID];false;$slashOption[user]]]
   `,

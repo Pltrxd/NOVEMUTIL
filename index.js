@@ -16,6 +16,7 @@ const client = new AoiClient({
 
 client.variables({
   color: "#FF4646",
+  colorgreen: "#50C878",
   wallet: 0,
   bank: 0
 });

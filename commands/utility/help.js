@@ -17,6 +17,7 @@ module.exports = {
     /deposit - Deposit your FrameCoin from wallet to bank
     /withdraw - Withdraw your FrameCoin from bank to wallet
     :false}
-    {color:$getVar[color]}}]
+    {color:$getVar[color]}{timestamp}
+    }]
   `,
 };

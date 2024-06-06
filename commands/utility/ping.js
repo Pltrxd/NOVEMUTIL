@@ -3,6 +3,6 @@ module.exports = {
     type: "interaction",
     prototype: "slash",
     code: `
-    $interactionReply[{newEmbed:{title:Pong! 🏓}{description:Latelancy: $pingMS}{color:$getVar[color]}}]
+    $interactionReply[{newEmbed:{title:Pong! 🏓}{description:Latelancy: $pingMS}{color:$getVar[color]}{timestamp}}]
   `,
 };

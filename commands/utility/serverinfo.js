@@ -28,6 +28,6 @@ module.exports = {
     
     {thumbnail:$guildIcon}
     {field:Role List:$guildRoles:false}
-    {color:$getVar[color]}}]
+    {color:$getVar[color]}{timestamp}}]
   `,
 };

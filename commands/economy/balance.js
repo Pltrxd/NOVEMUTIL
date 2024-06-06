@@ -20,8 +20,8 @@ module.exports = {
     $getGlobalUserVar[bank;$get[option]] FrameCoin
     }
     
-    {color:$getVar[color]}}]
-
+    {color:$getVar[color]}{timestamp}
+    }]
 $let[total;$math[$getGlobalUserVar[wallet;$get[option]]+$getGlobalUserVar[bank;$get[option]]]]
 $let[option;$replaceText[$replaceText[$checkCondition[$slashOption[user]==];true;$authorID];false;$slashOption[user]]]
   `,
