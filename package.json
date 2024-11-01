@@ -10,7 +10,7 @@
   "author": "Pltrxd",
   "license": "ISC",
   "dependencies": {
-    "@akarui/aoi.db": "^2.3.2",
-    "aoi.js": "^6.8.0"
+    "@akarui/aoi.db": "^2.3.3",
+    "aoi.js": "^6.8.5"
   }
 }

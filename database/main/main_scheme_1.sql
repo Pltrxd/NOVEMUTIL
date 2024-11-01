@@ -1,1 +1,1 @@
-{"wallet_828434675378159647_1222158134093676656":{"value":"0","type":"number","key":"wallet_828434675378159647_1222158134093676656"}}
+{"isShift_$auhorid":{"value":"true","type":"string","key":"isShift_$auhorid"}}

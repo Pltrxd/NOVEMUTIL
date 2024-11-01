@@ -1,1 +1,1 @@
-{"wallet_1164907176331067547_1222158134093676656":{"value":"952","type":"number","key":"wallet_1164907176331067547_1222158134093676656"},"bank_828434675378159647":{"value":"263","type":"number","key":"bank_828434675378159647"}}
+{"shiftEnd_976476518186381332":{"value":"1721228114465","type":"number","key":"shiftEnd_976476518186381332"},"isShift_$auhorid_828434773494988831":{"value":"true","type":"string","key":"isShift_$auhorid_828434773494988831"}}

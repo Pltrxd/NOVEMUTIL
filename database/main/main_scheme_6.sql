@@ -1,1 +1,1 @@
-{"wallet_1164907176331067547":{"value":"1000000100","type":"number","key":"wallet_1164907176331067547"},"wallet_1003300049557672006":{"value":"1000000","type":"number","key":"wallet_1003300049557672006"}}
+{"shiftStart_828434675378159647":{"value":"0","type":"number","key":"shiftStart_828434675378159647"},"shiftEnd_1153096771023679559":{"value":"1721229030533","type":"number","key":"shiftEnd_1153096771023679559"},"totalShift_828434675378159647":{"value":"1467350","type":"number","key":"totalShift_828434675378159647"}}
